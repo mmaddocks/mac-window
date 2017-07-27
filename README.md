@@ -5,5 +5,7 @@ Simple macOS Sierra "Finder" window design. Created for use as a browser or find
 - Sass/CSS
 - HTML5
 
+** Feel free to use for your project :)
+
 <br/><br/>
 ![Screenshot of Mac Window design](screenshot.png)
